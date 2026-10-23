@@ -5,9 +5,9 @@ title: Sequences Privacy Policy
 
 # Sequences Privacy Policy
 
-Effective date: October 23, 2026  
-Developer: Andrei Khramtsov  
-Privacy and support contact: andrei.khramtsov@gmail.com
+Effective date: October 23, 2026
+Developer: Kamirova
+Privacy and support contact: kamirova.apps@gmail.com
 
 ## Offline photo journal
 
