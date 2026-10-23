@@ -33,4 +33,4 @@ There is no export, backup, recovery, or cloud copy. Uninstalling, clearing data
 
 ## Contact and policy updates
 
-For privacy questions, contact andrei.khramtsov@gmail.com. If you choose to email support using another app, that email and information you provide are handled by your email provider and the recipient to answer your request; do not include private photos. This policy describes Sequences itself. External services such as Google Play have their own privacy policies. Changes to the app's data practices will be reflected in an updated policy and effective date.
+For privacy questions, contact kamirova.apps@gmail.com. If you choose to email support using another app, that email and information you provide are handled by your email provider and the recipient to answer your request; do not include private photos. This policy describes Sequences itself. External services such as Google Play have their own privacy policies. Changes to the app's data practices will be reflected in an updated policy and effective date.
