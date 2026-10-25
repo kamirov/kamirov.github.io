@@ -5,7 +5,7 @@ title: Sequences Privacy Policy
 
 # Sequences Privacy Policy
 
-Effective date: October 24, 2026
+Effective date: October 25, 2026
 
 Developer: Kami Rova
 
@@ -25,7 +25,7 @@ A permanent, one-time Remove ads purchase is offered through Google Play, with p
 
 ## Camera and local data
 
-Camera permission is used only to preview and capture photos when you use the camera. Sequences stores your photos and temporary captures, sequence names, capture dates and time-zone offsets, image dimensions, camera choices, ordering, overlay opacity, appearance, optional reminder schedules, authentication setting, and acknowledgement of the device-storage notice locally. It does not request microphone, location, contacts, or photo-library access. Photos are not added to the system gallery.
+Camera permission is used only to preview and capture photos when you use the camera. Sequences stores your photos and temporary captures, sequence names, capture dates and time-zone offsets, image dimensions, camera choices, ordering, overlay opacity, appearance, optional reminder schedules, authentication setting, and acknowledgement of the device-storage notice locally. The Gallery button opens Android’s photo picker so you can select a single existing photo. Sequences receives access to the selected photo, copies it into app-private storage, and leaves the original untouched. Imported entries use the date and time they are added. The app does not request microphone, location, contacts, or broad photo-library/storage permissions. Photos captured or saved inside Sequences are not added to the system gallery. If Android’s picker offers photos from a cloud media provider you have enabled, that provider handles access to those originals; Sequences does not upload your photos or journal content to it.
 
 ## Optional reminders
 
@@ -43,7 +43,7 @@ Photos and metadata are held in Android app-private storage. Backup and device-t
 
 Saved photos and metadata remain on your device until you delete them, clear app data, or uninstall. Delete a photo from View, or delete an entire sequence from Edit. If private-file cleanup fails after deletion, restart the app to retry it. Abandoned temporary captures are removed at the next startup. The app does not provide forensic secure erasure.
 
-There is no export, backup, recovery, or cloud copy. Uninstalling, clearing data, losing your device, or storage failure can permanently lose all photos. Deleting data inside Sequences does not delete screenshots or recordings made outside it.
+There is no export, backup, recovery, or cloud copy. Uninstalling, clearing data, losing your device, or storage failure can permanently lose all photos. Deleting data inside Sequences does not delete gallery originals, screenshots, or recordings made outside it. An imported copy remains available inside Sequences if its gallery original is later deleted; deleting an imported copy inside Sequences does not delete its gallery original.
 
 ## Contact and policy updates
 
